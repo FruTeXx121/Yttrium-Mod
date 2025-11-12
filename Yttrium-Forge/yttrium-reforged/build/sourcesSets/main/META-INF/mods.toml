@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[6,)" # Adjust to your Forge version range
+license="MIT"
+
+[[mods]]
+modId="yttrium"
+version="1.0.0"
+displayName="Yttrium Reforged"
+authors="FruTeXx"
+description='''
+GPU-accelerated shaders and transformations for Minecraft.
+'''

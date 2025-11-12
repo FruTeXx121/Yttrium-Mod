@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: yttrium
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: yttrium-reforged
+Implementation-Version: v1.0.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+
