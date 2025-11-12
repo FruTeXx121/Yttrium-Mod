@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "yttrium",
+  "version": "1.0.0",
+  "name": "Yttrium Fabric",
+  "description": "Offloads matrix-heavy calculations from CPU to GPU for faster render and entity logic",
+  "authors": ["FruTeXx"],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/yttrium/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.yttrium.YttriumMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.3",
+    "minecraft": "1.21.4",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
