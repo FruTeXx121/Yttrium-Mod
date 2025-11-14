@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: yttrium
-Specification-Vendor: FruTeXx
-Specification-Version: 1
-Implementation-Title: yttrium-reforged-v1.0.1
-Implementation-Version: v1.0.1
-Implementation-Vendor: FruTeXx
-

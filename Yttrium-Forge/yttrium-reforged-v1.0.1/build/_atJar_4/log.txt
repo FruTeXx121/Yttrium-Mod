@@ -1,7 +1,0 @@
-Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-21.0.9.10-hotspot\bin\java.exe
-Arguments: '--inJar, C:\Users\Owsih\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21.5-55.0.0\forge-1.21.5-55.0.0-injected.jar, --outJar, C:\Users\Owsih\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21.5-55.0.0_mapped_official_1.21.5\forge-1.21.5-55.0.0_mapped_official_1.21.5.jar, --logFile, accesstransform.log, --atFile, C:\Users\Owsih\Documents\Yttrium-Forge\yttrium-reforged-v1.0.1\build\_atJar_4\parent_at.cfg'
-Classpath:
- - C:\Users\Owsih\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.1\accesstransformers-8.2.1-fatjar.jar
-Working directory: C:\Users\Owsih\Documents\Yttrium-Forge\yttrium-reforged-v1.0.1\build\_atJar_4
-Main class: net.minecraftforge.accesstransformer.TransformerProcessor
-====================================
